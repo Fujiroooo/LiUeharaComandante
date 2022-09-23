@@ -1,2 +1,2 @@
-# LiUeharaComandante[LiUeharaCommandante – 1stQtrProposal (Wireframe).pdf](https://github.com/Fujiroooo/LiUeharaComandante/files/9599019/LiUeharaComamndante.1stQtrProposal.Wireframe.pdf)
-[LiUeharaCommandante – 1stQtrProposal.docx](https://github.com/Fujiroooo/LiUeharaComandante/files/9599020/LiUeharaCommandante.1stQtrProposal.docx)
+# LiUeharaComandante[LiUeharaComandante – 1stQtrProposal (Wireframe).pdf](https://github.com/Fujiroooo/LiUeharaComandante/files/9599019/LiUeharaCoamndante.1stQtrProposal.Wireframe.pdf)
+[LiUeharaComandante – 1stQtrProposal.docx](https://github.com/Fujiroooo/LiUeharaComandante/files/9599020/LiUeharaComandante.1stQtrProposal.docx)
