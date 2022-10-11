@@ -1,0 +1,44 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+body {
+  background-color: whitesmoke;
+}
+h1 { 
+  color:white;
+  background-color:rgb(140,90,220);
+  font-family:'Agency FB';
+  font-size:35px;
+  text-align: center;
+}
+h2 { 
+  color:white;
+  background-color:rgb(140,90,220);
+  font-family:'Agency FB';
+  text-align: center;
+}
+#container{
+  overflow: auto;
+  clear:left;
+  width: 100%;
+  margin:auto;
+  text-align:center;
+  font-weight: bold;
+  color: white;
+  font-family:'Agency FB';
+}
+
+
+*{box-sizing: border-box}
+#container div{
+  overflow: auto;
+  float:left;
+  background-color: rgb(140,90,220);
+  height: 20vh;
+  width: 20%;
+  border: 3px outset rgb(120,70,200);
+  padding: 10px 35px 10px;
+  color: white;
+  font-size:130%;
+}
