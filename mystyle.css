@@ -4,18 +4,17 @@ html, body {
 }
 body {
   background-color: whitesmoke;
+  font-family: 'Agency FB';
 }
 h1 { 
   color:white;
   background-color:rgb(140,90,220);
-  font-family:'Agency FB';
   font-size:35px;
   text-align: center;
 }
 h2 { 
   color:white;
   background-color:rgb(140,90,220);
-  font-family:'Agency FB';
   text-align: center;
 }
 #container{
@@ -26,7 +25,6 @@ h2 {
   text-align:center;
   font-weight: bold;
   color: white;
-  font-family:'Agency FB';
 }
 
 
