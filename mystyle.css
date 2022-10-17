@@ -6,19 +6,34 @@ body {
   background-color: whitesmoke;
   font-family: 'Agency FB';
 }
+
 h1 { 
   color:white;
   background-color:rgb(140,90,220);
   font-size:35px;
   text-align: center;
 }
+
 h2 { 
   color:white;
   background-color:rgb(140,90,220);
   text-align: center;
 }
+
+a {
+  padding: 30px;
+  color: white;
+  font-size:130%;
+}
+
+#homedesc{
+  font-size: 20px;
+  width:95%;
+  margin:auto;
+  padding: 20px;
+}
 #container{
-  overflow: auto;
+  overflow: hidden;
   clear:left;
   width: 100%;
   margin:auto;
@@ -27,16 +42,13 @@ h2 {
   color: white;
 }
 
-
 *{box-sizing: border-box}
 #container div{
-  overflow: auto;
+  overflow: hidden;
   float:left;
   background-color: rgb(140,90,220);
   height: 20vh;
   width: 20%;
   border: 3px outset rgb(120,70,200);
-  padding: 10px 35px 10px;
-  color: white;
-  font-size:130%;
+  
 }
