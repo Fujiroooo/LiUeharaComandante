@@ -32,6 +32,21 @@ a {
   margin:auto;
   padding: 20px;
 }
+
+#basicdesc{
+  font-size: 20px;
+  width:95%;
+  margin:auto;
+  padding: 20px;
+}
+
+#offensedesc{
+  font-size: 20px;
+  width:95%;
+  margin:auto;
+  padding: 20px;
+}
+
 #container{
   overflow: hidden;
   clear:left;
