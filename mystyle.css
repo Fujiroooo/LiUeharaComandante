@@ -26,6 +26,7 @@ h2 {
   width: 80%;
   margin-left: auto;
   margin-right: auto;
+  border: 3px outset rgb(120,70,200);
 }
 
 a {
