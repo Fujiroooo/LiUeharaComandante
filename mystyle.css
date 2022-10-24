@@ -88,3 +88,13 @@ img {
   margin-right: auto;
   display: block;
 }
+
+div#return {
+  width: 230px;
+  background-color: rgb(140,90,220);
+  color: black;
+  border: 3px outset rgb(120,70,200);
+  padding: 10px;
+  text-align: center;
+  margin: 10px;
+}
