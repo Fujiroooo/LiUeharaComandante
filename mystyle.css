@@ -36,6 +36,29 @@ a {
   text-decoration: none;
 }
 
+a:hover {
+  font-size: 200%;
+}
+a:active{
+  font-size: 160%;
+}
+div#one:hover{
+  background-image: url('Wavedash.png');
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+div#two:hover{
+  background-image: url('dragontail.jpg');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+div#three:hover{
+  background-image: url('Jinparry.jpg');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
 #homedesc{
   font-size: 20px;
   width:95%;
@@ -57,6 +80,12 @@ a {
   padding: 20px;
 }
 
+#defensedesc {
+  font-size: 20px;
+  width:95%;
+  margin:auto;
+  padding: 20px;
+}
 #container{
   overflow: hidden;
   clear:left;
@@ -78,8 +107,8 @@ a {
   padding-top:30px;
 }
 
-img {
-  width: 50%;
+img#example {
+  width: 60%;
   height: 60%;
 }
 
